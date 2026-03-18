@@ -3,8 +3,6 @@
 ## Overview
 This repository contains work related to **DDPM** (Denoising Diffusion Probabilistic Models). The goal of the project is to explore, implement, and/or experiment with diffusion-based generative modeling.
 
-> Note: If this repository is coursework or a research sandbox, update the sections below to match the exact scope and requirements.
-
 ## Goals
 - Provide a clear, reproducible implementation and/or experiments around DDPMs
 - Make it easy to run training and sampling workflows
@@ -47,8 +45,6 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 # 3) Install dependencies
 pip install -r requirements.txt
 ```
-
-> If `requirements.txt` is not present, add your dependency list or document the install steps here.
 
 ## Usage
 ### Training (example)
